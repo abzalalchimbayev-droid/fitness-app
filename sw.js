@@ -1,5 +1,5 @@
 // Офлайн-кэш. При обновлении приложения увеличьте номер версии.
-const CACHE = 'fitness-v3';
+const CACHE = 'fitness-v4';
 const FILES = [
   './',
   './index.html',
